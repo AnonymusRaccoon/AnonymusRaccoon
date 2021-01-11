@@ -5,7 +5,7 @@ Hello, I'm Zoe and apart from coding, I also like animes, cooking, piano, cospla
 **Languages:** C#, C++, C, Python, Typescript, ASM (Z80, 6502, 65816), Java\
 **IDE:** JetBrains suite or vim.\
 **OS:** ArchLinux\
-**Pronoms:** she/her
+**Pronouns:** she/her
 
 ### Stats
 ![AnonymusRaccoon's github stats](https://github-readme-stats.vercel.app/api?username=AnonymusRaccoon&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl)

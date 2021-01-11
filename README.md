@@ -1,6 +1,6 @@
 ### About me
 
-Hello, I'm Zoe and apart from coding, I also like animes, cooking, piano, cosplay, tabletops games & sweets
+Hello, I'm Zoe and apart from coding, I also like animes, cooking, piano, cosplay, tabletops games & sweets.
 
 **Languages:** C#, C++, C, Python, Typescript, ASM (Z80, 6502, 65816), Java\
 **IDE:** JetBrains suite or vim.\

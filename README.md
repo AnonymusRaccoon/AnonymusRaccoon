@@ -1,16 +1,13 @@
-### Hi there 👋
+### About me
 
-<!--
-**AnonymusRaccoon/AnonymusRaccoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Zoe and apart from coding, I also like animes, cooking, piano, cosplay, tabletops games & sweets
 
-Here are some ideas to get you started:
+**Languages:** C#, C++, C, Python, Typescript, ASM (Z80, 6502, 65816), Java\
+**IDE:** JetBrains suite or vim.\
+**OS:** ArchLinux\
+**Pronoms:** she/her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Stats
+![AnonymusRaccoon's github stats](https://github-readme-stats.vercel.app/api?username=AnonymusRaccoon&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymusRaccoon&hide=shaderlab&langs_count=8&layout=compact&theme=nightowl)

@@ -9,6 +9,6 @@ Hello, I'm Zoe and apart from coding, I also like animes, cooking, piano, cospla
 
 ### Stats
 ![AnonymusRaccoon's github stats](https://github-readme-stats.vercel.app/api?username=AnonymusRaccoon&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymusRaccoon&hide=shaderlab,css,hlsl,cmake&langs_count=6&layout=compact&theme=nightowl)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymusRaccoon&hide=shaderlab,css,hlsl,cmake,glsl&langs_count=6&layout=compact&theme=nightowl)
 
 *Generated using [this](https://github.com/anuraghazra/github-readme-stats).*
